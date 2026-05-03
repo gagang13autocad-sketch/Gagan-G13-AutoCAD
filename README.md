@@ -99,7 +99,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
   It enhanced understanding of UI/UX design, modular coding, and testing.
 </p>
 <p>
-  <a href="<!-- Add link to full report -->" target="_blank"><strong>→ View Full Project Report</strong></a>
+  <a href="https://github.com/gagang13autocad-sketch/Gagan-G13-AutoCAD/blob/main/Sure%20Trust%20%20Report.pdf" target="_blank"><strong>→ View Full Project Report</strong></a>
 </p>
 
 <!-- Project 3 -->
