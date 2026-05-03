@@ -19,9 +19,9 @@
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
     <p><strong>Name:</strong> <"Gagan G"> </p>
-    <p><strong>Email ID:</strong> <gagang13autocad@gmail.com> </p>
-    <p><strong>College Name:</strong> <University BDT College of Engineering> </p>
-    <p><strong>Branch/Specialization :</strong> <Mechanical Engineering> </p>
+    <p><strong>Email ID:</strong> <"gagang13autocad@gmail.com"> </p>
+    <p><strong>College Name:</strong> <"University BDT College of Engineering"> </p>
+    <p><strong>Branch/Specialization :</strong> <"Mechanical Engineering"> </p>
     <p><strong>College ID:</strong> <E061> </p>
 </div>
 
@@ -29,8 +29,8 @@
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <AutoCAD and Solidworks> </p>
-    <p><strong>Instructor Name:</strong> <Shanmukha Ravi Teja Yallasiri,Mairala Chinnarao> </p>
+    <p><strong>Course Opted:</strong> <"AutoCAD and Solidworks"> </p>
+    <p><strong>Instructor Name:</strong> <"Shanmukha Ravi Teja Yallasiri,Mairala Chinnarao"> </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
     <p><strong>Duration:</strong> <6> </p>
@@ -40,9 +40,9 @@
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <Shanmukha Ravi Teja Yallasiri,Mairala Chinnarao></p>
-<p><strong>Trainer Email ID:</strong> <yallasiriraviteja164@gmail.com,chinnaraomairala@gmail.com></p>
-<p><strong>Trainer Designation:</strong> <Design Engineer></p>
+<p><strong>Trainer Name:</strong> <"Shanmukha Ravi Teja Yallasiri,Mairala Chinnarao"></p>
+<p><strong>Trainer Email ID:</strong> <"yallasiriraviteja164@gmail.com,chinnaraomairala@gmail.com"></p>
+<p><strong>Trainer Designation:</strong> <"Design Engineer"></p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
