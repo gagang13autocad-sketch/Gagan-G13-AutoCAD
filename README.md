@@ -18,31 +18,31 @@
 
 <h2 style = "color:#333;"> Student Details </h2>
 <div align = "left" style ="margin: 20px; font-size: 16px;">
-    <p><strong>Name:</strong> <!--- Add your name---> </p>
-    <p><strong>Email ID:</strong> <!--- Add your mail id ---> </p>
-    <p><strong>College Name:</strong> <!--- Add your college name---> </p>
-    <p><strong>Branch/Specialization :</strong> <!--- Add your branch name---> </p>
-    <p><strong>College ID:</strong> <!--- Add your college ID---> </p>
+    <p><strong>Name:</strong> <Gagan G> </p>
+    <p><strong>Email ID:</strong> <gagang13autocad@gmail.com> </p>
+    <p><strong>College Name:</strong> <University BDT College of Engineering> </p>
+    <p><strong>Branch/Specialization :</strong> <Mechanical Engineering> </p>
+    <p><strong>College ID:</strong> <E061> </p>
 </div>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Course Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Course Opted:</strong> <!--- Add your course name---> </p>
-    <p><strong>Instructor Name:</strong> <!--- Add your instructor name---> </p>
+    <p><strong>Course Opted:</strong> <AutoCAD and Solidworks> </p>
+    <p><strong>Instructor Name:</strong> <Shanmukha Ravi Teja Yallasiri,Mairala Chinnarao> </p>
 </div>
 <div align="left" style="margin: 20px; font-size: 16px;">
-    <p><strong>Duration:</strong> <!--- Durations in months---> </p>
+    <p><strong>Duration:</strong> <6> </p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
 <h2 style="color:#333;"> Trainer Details </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong>Trainer Name:</strong> <!–– Add trainer name ––></p>
-<p><strong>Trainer Email ID:</strong> <!–– Add trainer email ––></p>
-<p><strong>Trainer Designation:</strong> <!–– Add designation along with company––></p>
+<p><strong>Trainer Name:</strong> <Shanmukha Ravi Teja Yallasiri,Mairala Chinnarao></p>
+<p><strong>Trainer Email ID:</strong> <yallasiriraviteja164@gmail.com,chinnaraomairala@gmail.com></p>
+<p><strong>Trainer Designation:</strong> <Design Engineer></p>
 
 <hr style="border: 0; border-top: 1px solid #ccc; width: 80%;" />
 
@@ -72,7 +72,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 <h2 style="color:#333;"> Projects Completed </h2>
 <div align="left" style="margin: 20px; font-size: 16px;">
 
-<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- Add project title → --&gt;</p>
+<p><strong><a href="#project1">Project 1:</a></strong> &lt;!-- We Designed A Rail Guided Rack Climbing Robotic System For Automated Bin Retrieval → --&gt;</p>
 
 <p><strong><a href="#project2">Project 2:</a></strong> &lt;!-- Add project title → --&gt;</p>
 
@@ -83,7 +83,7 @@ problem-solving, teamwork, documentation, and delivering real-world project solu
 </div>
 
 <!-- Project 1 -->
-<h3 id="project1">Project 1: <!-- Add Project Title --></h3>
+<h3 id="project1">Project 1: <We Designed A Rail Guided Rack Climbing Robotic System For Automated Bin Retrieval></h3>
 <p>
   This project involved designing and developing a basic functional module using the core concepts taught in the course.
   It focused on understanding requirements, creating structured code, and implementing key features.
